@@ -1,0 +1,14 @@
+@charset "utf-8";
+/*edeeff1 303f43 26a79a ec4079 3f51b5 ffca29*/
+body {
+    background-color: #303f43;
+}
+h1 {
+    background-color: #ec4079;
+}
+.countoryname {
+    background-color: #26a79a;
+    width:540px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
